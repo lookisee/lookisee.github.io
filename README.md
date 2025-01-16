@@ -30,3 +30,6 @@ Open door one....   Hello?..
 9001 - 10000
 
 reconnecting ......
+
+jump 1900 sub 435098 dimen03 float 0.0.0.0.0.0 echo denergy404 stay 303 jarvis
+
